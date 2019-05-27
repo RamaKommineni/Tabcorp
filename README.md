@@ -33,7 +33,7 @@ Regarding (Total number of bets sold per hour) rest endpoint, requirement was no
 How to run this application
 
 Clone the git repo using following command
-git clone https://github.com/RamaKommineni/tabcorp.git
+git clone https://github.com/RamaKommineni/Tabcorp.git
 
 This will create a folder tabcorp in your current working directory.
 
