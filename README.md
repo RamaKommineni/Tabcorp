@@ -50,12 +50,18 @@ add following  http headers:
 key=Content-Type value=application/json
 
 Paste the following content to the body section then click send
+
 {
  "customerID":345,
+ 
  "dateTime":"2019-05-28 11:58",
+ 
   "betType":"WIN",
+  
   "propNumber":456,
+  
   "investment":2000 
+  
   }
   
 By running this URL multiple times with the different bets, we can create multiple bets and can be stored in DB for testing the rest of the api's.
